@@ -1,0 +1,2 @@
+# Master_thesis-Praca_magisterska
+Master_thesis/Praca_magisterska
